@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <Box bg="gray.800" p={4}>
       <Flex>
-        <Text color="white" fontSize="xl" fontWeight="bold">MyApp</Text>
+        <Text color="white" fontSize="xl" fontWeight="bold">Apex Capital</Text>
         <Spacer />
         <Link as={RouterLink} to="/" color="white" mx={2}>Home</Link>
         <Link as={RouterLink} to="/login" color="white" mx={2}>Login</Link>

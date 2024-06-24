@@ -16,7 +16,7 @@ const RateVideos = () => {
   return (
     <Container centerContent>
       <Box bg="gray.700" p={8} borderRadius="md" boxShadow="lg" w="100%" maxW="md">
-        <Heading mb={6} color="white">Rate Videos</Heading>
+        <Heading mb={6} color="white">Rate Videos on Apex Capital</Heading>
         <VStack spacing={4}>
           <Box bg="gray.600" p={4} borderRadius="md" w="100%">
             <Text color="white">Video 1</Text>
