@@ -13,7 +13,7 @@ const Login = () => {
   return (
     <Container centerContent>
       <Box bg="gray.700" p={8} borderRadius="md" boxShadow="lg" w="100%" maxW="md">
-        <Heading mb={6} color="white">Login</Heading>
+        <Heading mb={6} color="white">Apex Capital Login</Heading>
         <VStack spacing={4}>
           <FormControl id="email">
             <FormLabel color="white">Email address</FormLabel>
