@@ -9,6 +9,7 @@ const Navbar = () => {
         <Spacer />
         <Link as={RouterLink} to="/" color="white" mx={2}>Home</Link>
         <Link as={RouterLink} to="/login" color="white" mx={2}>Login</Link>
+        <Link as={RouterLink} to="/register" color="white" mx={2}>Register</Link>
         <Link as={RouterLink} to="/rate-videos" color="white" mx={2}>Rate Videos</Link>
       </Flex>
     </Box>
