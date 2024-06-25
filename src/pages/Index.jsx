@@ -5,7 +5,7 @@ const Index = () => {
   return (
     <Container centerContent maxW="container.md" height="100vh" display="flex" flexDirection="column" justifyContent="center" alignItems="center">
       <VStack spacing={4}>
-        <Box bgGradient="linear(to-r, blue.500, black)" bgClip="text">
+        <Box bgGradient="linear(to-r, blue.500, black)" bgClip="text" border="2px" borderColor="black">
           <Text fontSize="2xl" color="transparent">Welcome to Apex Capital</Text>
         </Box>
         <Text color="white">Start by logging in or rating some videos!</Text>
